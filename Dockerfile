@@ -1,2 +1,0 @@
-FROM registry.k8s.io/ingress-nginx/nginx-errors:v20220916-gd32f8c343
-MAINTAINER Q
